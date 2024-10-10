@@ -51,3 +51,13 @@ You can **clone the repository** and follow these steps to recreate the analysis
 1. **Clone the repository**:
    ```bash
    https://github.com/Gkkumar2/London-bike-sharing-Analysis-project.git
+
+## 🏆 Results and Insights
+- **Rental Trends**: Key patterns were observed across different timeframes and weather conditions.
+- **External Factors**: Weather and holidays had a significant impact on bike-sharing demand.
+- **Peak Usage**: Weekdays during commuting hours showed the highest number of bike rentals.
+
+---
+
+### 🎉 Thank you for exploring the project! Feel free to explore the code and Tableau dashboards in this repository.
+
