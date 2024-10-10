@@ -50,5 +50,4 @@ You can **clone the repository** and follow these steps to recreate the analysis
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/london-bike-sharing-analysis.git
-   cd london-bike-sharing-analysis
+   https://github.com/Gkkumar2/London-bike-sharing-Analysis-project.git
